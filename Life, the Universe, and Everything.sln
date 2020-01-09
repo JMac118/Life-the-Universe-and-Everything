@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Life, the Universe, and Everything", "Life, the Universe, and Everything.csproj", "{35CB77F2-472F-4C96-B452-A7CC3AA9DE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35CB77F2-472F-4C96-B452-A7CC3AA9DE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CB77F2-472F-4C96-B452-A7CC3AA9DE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CB77F2-472F-4C96-B452-A7CC3AA9DE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CB77F2-472F-4C96-B452-A7CC3AA9DE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8855D2-A8B7-4C79-86C8-15058F6DA368}
+	EndGlobalSection
+EndGlobal
